@@ -11,7 +11,6 @@ class Competition extends CI_Controller {
 		$this->load->helper('userfunctions');
 		$this->load->library('session');
 		$this->load->library('email');
-		
 		$this->load->library('template');
 	}
 	
