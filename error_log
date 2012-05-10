@@ -1,0 +1,37 @@
+[27-Mar-2012 04:07:10] PHP Parse error:  syntax error, unexpected $end in /home/bernazzy/public_html/epolejudge/application/controllers/competition.php on line 178
+[28-Mar-2012 12:29:40] PHP Parse error:  syntax error, unexpected T_OBJECT_OPERATOR in /home/bernazzy/public_html/epolejudge/application/views/Template/template.php on line 8
+[28-Mar-2012 13:11:28] PHP Parse error:  syntax error, unexpected $end in /home/bernazzy/public_html/epolejudge/application/controllers/home.php on line 108
+[29-Mar-2012 03:11:01] PHP Fatal error:  Function name must be a string in /home/bernazzy/public_html/epolejudge/application/controllers/home.php on line 349
+[29-Mar-2012 03:12:07] PHP Fatal error:  Function name must be a string in /home/bernazzy/public_html/epolejudge/application/controllers/home.php on line 349
+[29-Mar-2012 03:39:11] PHP Parse error:  syntax error, unexpected '{' in /home/bernazzy/public_html/epolejudge/application/controllers/home.php on line 430
+[29-Mar-2012 03:47:04] PHP Parse error:  syntax error, unexpected $end in /home/bernazzy/public_html/epolejudge/application/views/index.php on line 131
+[29-Mar-2012 09:51:10] PHP Fatal error:  Function name must be a string in /home/bernazzy/public_html/epolejudge/application/controllers/competitor.php on line 85
+[29-Mar-2012 09:51:52] PHP Fatal error:  Function name must be a string in /home/bernazzy/public_html/epolejudge/application/controllers/competitor.php on line 85
+[29-Mar-2012 09:52:04] PHP Fatal error:  Function name must be a string in /home/bernazzy/public_html/epolejudge/application/controllers/competitor.php on line 85
+[29-Mar-2012 11:45:28] PHP Parse error:  syntax error, unexpected $end in /home/bernazzy/public_html/epolejudge/application/views/register_competitor.php on line 280
+[29-Mar-2012 12:57:13] PHP Parse error:  syntax error, unexpected T_IS_EQUAL in /home/bernazzy/public_html/epolejudge/application/controllers/home.php on line 569
+[29-Mar-2012 14:26:48] PHP Parse error:  syntax error, unexpected $end in /home/bernazzy/public_html/epolejudge/application/controllers/admin/user.php on line 839
+[04-Apr-2012 02:07:30] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/bernazzy/public_html/epolejudge/query.php on line 43
+[04-Apr-2012 02:07:44] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/bernazzy/public_html/epolejudge/query.php on line 43
+[04-Apr-2012 02:07:46] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/bernazzy/public_html/epolejudge/query.php on line 43
+[04-Apr-2012 02:13:31] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/bernazzy/public_html/epolejudge/query.php on line 43
+[04-Apr-2012 02:15:00] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/bernazzy/public_html/epolejudge/query.php on line 43
+[04-Apr-2012 02:15:49] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/bernazzy/public_html/epolejudge/query.php on line 44
+[04-Apr-2012 02:21:39] PHP Fatal error:  Call to a member function hasApplied() on a non-object in /home/bernazzy/public_html/epolejudge/application/views/apply.php on line 79
+[04-Apr-2012 02:21:46] PHP Fatal error:  Call to a member function hasApplied() on a non-object in /home/bernazzy/public_html/epolejudge/application/views/apply.php on line 79
+[04-Apr-2012 02:22:06] PHP Fatal error:  Call to a member function hasApplied() on a non-object in /home/bernazzy/public_html/epolejudge/application/views/apply.php on line 79
+[04-Apr-2012 02:23:01] PHP Fatal error:  Call to a member function hasApplied() on a non-object in /home/bernazzy/public_html/epolejudge/application/views/apply.php on line 79
+[05-Apr-2012 04:09:58] PHP Parse error:  syntax error, unexpected T_ELSE, expecting T_FUNCTION in /home/bernazzy/public_html/epolejudge/application/controllers/competitor.php on line 152
+[07-Apr-2012 06:03:39] PHP Parse error:  syntax error, unexpected T_RETURN in /home/bernazzy/public_html/epolejudge/application/models/homemodel.php on line 147
+[07-Apr-2012 07:16:54] PHP Parse error:  syntax error, unexpected ')' in /home/bernazzy/public_html/epolejudge/application/views/profile.php on line 278
+[07-Apr-2012 07:36:48] PHP Parse error:  syntax error, unexpected '}' in /home/bernazzy/public_html/epolejudge/application/views/profile.php on line 288
+[11-Apr-2012 05:47:40] PHP Parse error:  syntax error, unexpected $end, expecting ']' in /home/bernazzy/public_html/epolejudge/application/controllers/competition.php on line 941
+[12-Apr-2012 04:51:42] PHP Parse error:  syntax error, unexpected T_EXIT, expecting ',' or ';' in /home/bernazzy/public_html/epolejudge/application/controllers/competitor.php on line 213
+[12-Apr-2012 06:15:50] PHP Parse error:  syntax error, unexpected '[' in /home/bernazzy/public_html/epolejudge/application/controllers/competitor.php on line 148
+[12-Apr-2012 06:50:49] PHP Parse error:  syntax error, unexpected T_ELSE in /home/bernazzy/public_html/epolejudge/application/controllers/judge.php on line 118
+[12-Apr-2012 06:52:26] PHP Parse error:  syntax error, unexpected T_ELSE in /home/bernazzy/public_html/epolejudge/application/controllers/judge.php on line 117
+[13-Apr-2012 05:33:53] PHP Parse error:  syntax error, unexpected '<' in /home/bernazzy/public_html/epolejudge/application/views/profile.php on line 372
+[14-Apr-2012 03:14:59] PHP Fatal error:  Call to a member function getjudgecompetitions() on a non-object in /home/bernazzy/public_html/epolejudge/application/controllers/judge.php on line 146
+[14-Apr-2012 03:16:20] PHP Fatal error:  Call to a member function getjudgecompetitions() on a non-object in /home/bernazzy/public_html/epolejudge/application/controllers/judge.php on line 146
+[21-Apr-2012 05:48:29] PHP Parse error:  syntax error, unexpected T_VARIABLE, expecting ',' or ';' in /home/bernazzy/public_html/epolejudge/application/controllers/admin/user.php on line 1376
+[22-Apr-2012 08:51:38] PHP Parse error:  syntax error, unexpected '[' in /home/bernazzy/public_html/epolejudge/application/config/database.php on line 51
