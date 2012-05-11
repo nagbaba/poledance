@@ -980,7 +980,7 @@ class Competition extends CI_Controller {
 		$WhereFieldValue = "CompetitionICode = '".$CompetitionICode."'";
 		$data['commpdetails'] =$this->home->getAllDetailsFromId('competition_master', $WhereFieldValue);
 		
-	   	$this->template->write_view('contentpane','viewcompetitiondetails',$data,FALSE);
+	   	$this->template->write_view('contentpane','viewcompetitiondetails', $data, FALSE);
 		$this->template->render();
 	}
 	
